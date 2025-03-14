@@ -15,8 +15,12 @@
 ###
 
 <div align="left">
+  <a href="https://www.linkedin.com/in/salah-om">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="62" height="50" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:salah-om@gmail.com">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="62" height="50" alt="gmail logo"  />
+  </a>
 </div>
 
 ###
