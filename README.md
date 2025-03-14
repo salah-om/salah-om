@@ -15,7 +15,7 @@
 ###
 
 <div align="left">
-  <img height="90" src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=3792cb&width=435&lines=Hello%2C+it's+Salah+Moussa;Software+Engineer"  />
+  <img height="75" src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=3792cb&width=435&lines=Hello%2C+it's+Salah+Moussa;Software+Engineer"  />
 </div>
 
 ###
