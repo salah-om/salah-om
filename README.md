@@ -58,8 +58,6 @@
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="75" alt="python logo"  />
   <img width="10" />
-  <img width="10" />
-  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="75" alt="spring logo"  />
 </div>
 
